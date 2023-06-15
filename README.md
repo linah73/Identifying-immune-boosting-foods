@@ -2,10 +2,13 @@
  Summary:
  
  Developed a model to classify grocery food items based on their immune-boosting properties.
+ 
 ▪ Employed Random Forest classification algorithm and feature importance permutation method to determine the
 relative micronutrient contribution to immunity strength.
+
 ▪ Assembled the dataset by wrangling data from 100+ data files collected from the CDC National Health and
 Nutrition Examination Survey website.
+
 ▪ Developed a scoring system based on the weighted importance of the micronutrients to score grocery foods in the
 USDA nutrition dataset.
 
